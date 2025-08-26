@@ -52,7 +52,7 @@ Banco de Dados: MySQL
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/jogoteca.git
+git clone https://github.com/Moyss32/JogoTeca
 
 cd jogoteca
 
