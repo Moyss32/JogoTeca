@@ -3,7 +3,7 @@ import os
 
 SECRET_KEY = 'AAAbbb123!@#'
 
-senha = quote_plus('b4t3r14PEARL!@')
+senha = quote_plus('')
 
 SQLALCHEMY_DATABASE_URI = \
     f"mysql+mysqlconnector://root:{senha}@127.0.0.1:3306/jogoteca"
